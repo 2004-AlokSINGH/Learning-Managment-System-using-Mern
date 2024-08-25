@@ -33,3 +33,8 @@ This project is a full-featured Learning Management System (LMS) built using the
 ### Contribution
 Contributions are welcome! Please fork the repository and create a pull request to propose changes.
 
+## Screenshots
+![Screenshot 2024-08-25 192833](https://github.com/user-attachments/assets/36c8bfac-be46-421f-af75-9cb692bc68f5)
+![Screenshot 2024-08-25 192849](https://github.com/user-attachments/assets/5873c0a1-b06f-4627-a2dd-94f6c57e0776)
+
+
