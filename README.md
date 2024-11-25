@@ -18,10 +18,10 @@ This project is a full-featured Learning Management System (LMS) built using the
 - **User Management**: Admins can manage user accounts, including viewing and modifying user details.
 
 ### Technology Stack
-- **Frontend**: React, Vite (for fast builds and hot module replacement), CSS/Bootstrap for responsive UI design.
-- **Backend**: Node.js, Express, MongoDB (for data storage and management).
-- **Authentication**: JWT for secure authentication.
-- **Payment Integration**: Stripe/PayPal for handling payments.
+- **Frontend**: React, Vite , CSS/Bootstrap for responsive UI design.
+- **Backend**: Node.js, Express, MongoDB (for data storage and management), **Cloudinary for image and video**.
+- **Authentication**: **JWT for secure authentication**.
+- **Payment Integration**: Stripe/PayPal for handling payments **pending**.
 - **Deployment**: Docker for containerization, CI/CD pipeline setup for automated testing and deployment.
 
 ### Getting Started
@@ -38,6 +38,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Working
 Here is landing page.
+
 ![image](https://github.com/user-attachments/assets/d8ba8a70-1c2d-40fe-8e3d-982ef496cfb9)
 
 User can register on platform - Register Page
@@ -51,7 +52,41 @@ Here user can login - Login Page
 ![image](https://github.com/user-attachments/assets/055cc403-eb9f-4dfc-8d96-9cd2506e3f38)
 
 Here a non-admin user can see and enrolled in courses.
-    ![image](https://github.com/user-attachments/assets/3e0b7a8b-faae-4a3d-b7cf-274bdb44429c)
+
+![image](https://github.com/user-attachments/assets/3e0b7a8b-faae-4a3d-b7cf-274bdb44429c)
+
+Admin User can create courses and Add Lectures.
+
+  ![image](https://github.com/user-attachments/assets/a0cf8f16-62bc-443e-9766-82a9a2aa1bba)
+
+Now new course can be created with Thumbnail 
+
+  ![image](https://github.com/user-attachments/assets/fe59a6fe-60fa-46b9-a6c3-53b0d9fe4571)
+
+The lecture in course can be added as
+
+  ![image](https://github.com/user-attachments/assets/b47f95d3-3e36-48b2-b9dc-e1b0a0a0c4e7)
+
+Can add video lecture
+
+  ![image](https://github.com/user-attachments/assets/bcb18dc1-7912-4a2f-a247-80e8fb17d96c)
+
+Admin can add or delete lecture
+
+  ![image](https://github.com/user-attachments/assets/cc1a73c5-dfe9-4eef-bdd4-2f039d9096ee)
+
+Admin can extra access over other courses.
+
+  ![image](https://github.com/user-attachments/assets/0d7ce3fe-0e8e-4a65-a476-06425a9f4187)
+
+
+
+    
+
+
+
+
+
 
 
 
