@@ -34,7 +34,28 @@ This project is a full-featured Learning Management System (LMS) built using the
 Contributions are welcome! Please fork the repository and create a pull request to propose changes.
 
 ## Screenshots
-![Screenshot 2024-08-25 192833](https://github.com/user-attachments/assets/36c8bfac-be46-421f-af75-9cb692bc68f5)
-![Screenshot 2024-08-25 192849](https://github.com/user-attachments/assets/5873c0a1-b06f-4627-a2dd-94f6c57e0776)
+
+
+## Working
+Here is landing page.
+![image](https://github.com/user-attachments/assets/d8ba8a70-1c2d-40fe-8e3d-982ef496cfb9)
+
+User can register on platform
+  - ### can upload image also.
+  - ### password check implemented
+    
+   ![image](https://github.com/user-attachments/assets/53b7b370-bcb7-4454-8490-1162927c6783)
+
+Here user can login
+
+    ![image](https://github.com/user-attachments/assets/055cc403-eb9f-4dfc-8d96-9cd2506e3f38)
+
+Here a non-admin user can see and enrolled in courses.
+    ![image](https://github.com/user-attachments/assets/3e0b7a8b-faae-4a3d-b7cf-274bdb44429c)
+
+
+
+
+
 
 
